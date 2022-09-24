@@ -1,11 +1,46 @@
-body {
-    margin: 0;
-    padding: 0;
-    border: 0;
-    width: 1000px;
+html {
+    scroll-behavior: smooth !important;
 }
 
+
+body {
+    
+    background-color: black 
+    
+}
+
+nav {
+    z-index: 1;
+    position: fixed;
+    width: 100%;
+}
+
+.presentacion {
+    
+    max-width: 100%;
+    
+}
+
+.card {
+    max-width: 100%;
+    background-color: black;
+}
+
+.forma {
+    max-width: 100%;
+}
 .footer {
+
+    color: lightblue;
+    left: 10px;  
+    bottom: 5px;  
+    right: 10px;   
+    ;  
+
+
+}
+
+.iconos {
 
 }
 
